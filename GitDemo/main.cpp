@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
     cout << "Hello World! I am hungry !" << endl;
-    cout << "Johanna" << endl;
+    cout << "Il est l'heure de manger" << endl;
     return 0;
 }
