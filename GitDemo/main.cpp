@@ -1,10 +1,11 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    cout << "Stephane2" << endl;
+    cout << "Hello World! 222" << endl;
+    cout << "Stephane" << endl;
     return 0;
 }
