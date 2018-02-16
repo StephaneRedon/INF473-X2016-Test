@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World! 222" << endl;
-    cout << "Stephane" << endl;
+    cout << "Hello World! I am hungry !" << endl;
+    cout << "Il est l'heure de manger" << endl;
     return 0;
 }
